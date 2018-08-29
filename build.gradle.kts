@@ -33,6 +33,8 @@ dependencies {
     compile(kotlinModule("stdlib-jdk8", kotlin_version))
     testCompile("junit", "junit", "4.12")
     compile("io.reactivex.rxjava2","rxkotlin","2.2.0")
+    compile ("com.google.dagger","dagger","2.11-rc2")
+
 
 }
 
