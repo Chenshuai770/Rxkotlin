@@ -1,4 +1,4 @@
-package com.cs;
+package com.cs.test;
 
 import java.util.Vector;
 import java.util.concurrent.CountDownLatch;
